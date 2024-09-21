@@ -1,0 +1,15 @@
+{
+  "name": "maisprati-m1-ltex2",
+  "version": "1.0.0",
+  "description": "- Faça o clone em seu computador.\r - Abra o projeto no Visual Estudio Code.\r - Execute o comando **npm install** no terminal do Visual Estudio Code para instalar as dependências.\r - Sugiro também a instalação da extensão Code Runner para facilitar a execução das tarefas.\r - Após a instalação do Code Runner, ou caso já o tenha instalado, execute as tarefas através do botão de play no canto superior direito ou, se preferir, use o atalho **Ctrl+Alt+N**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
